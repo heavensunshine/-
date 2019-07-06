@@ -1,0 +1,9 @@
+C:\Users\heave\Desktop\hcho上位机\HCHO_EXP\MiniIMU\obj\Debug\MiniIMU.csproj.GenerateResource.Cache
+C:\Users\heave\Desktop\hcho上位机\HCHO_EXP\MiniIMU\obj\Debug\MiniIMU.csprojResolveAssemblyReference.cache
+C:\Users\heave\Desktop\hcho上位机\HCHO_EXP\MiniIMU\bin\Debug\HCHO.exe.config
+C:\Users\heave\Desktop\hcho上位机\HCHO_EXP\MiniIMU\bin\Debug\HCHO.exe
+C:\Users\heave\Desktop\hcho上位机\HCHO_EXP\MiniIMU\bin\Debug\HCHO.pdb
+C:\Users\heave\Desktop\hcho上位机\HCHO_EXP\MiniIMU\obj\Debug\HCHO.Form1.resources
+C:\Users\heave\Desktop\hcho上位机\HCHO_EXP\MiniIMU\obj\Debug\HCHO.Properties.Resources.resources
+C:\Users\heave\Desktop\hcho上位机\HCHO_EXP\MiniIMU\obj\Debug\HCHO.exe
+C:\Users\heave\Desktop\hcho上位机\HCHO_EXP\MiniIMU\obj\Debug\HCHO.pdb

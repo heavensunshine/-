@@ -1,0 +1,8 @@
+C:\Users\heave\Desktop\hcho上位机\HCHO_EXP\MiniIMU\obj\Release\MiniIMU.csproj.GenerateResource.Cache
+C:\Users\heave\Desktop\hcho上位机\HCHO_EXP\MiniIMU\bin\Release\HCHO.exe.config
+C:\Users\heave\Desktop\hcho上位机\HCHO_EXP\MiniIMU\bin\Release\HCHO.exe
+C:\Users\heave\Desktop\hcho上位机\HCHO_EXP\MiniIMU\bin\Release\HCHO.pdb
+C:\Users\heave\Desktop\hcho上位机\HCHO_EXP\MiniIMU\obj\Release\HCHO.Form1.resources
+C:\Users\heave\Desktop\hcho上位机\HCHO_EXP\MiniIMU\obj\Release\HCHO.Properties.Resources.resources
+C:\Users\heave\Desktop\hcho上位机\HCHO_EXP\MiniIMU\obj\Release\HCHO.exe
+C:\Users\heave\Desktop\hcho上位机\HCHO_EXP\MiniIMU\obj\Release\HCHO.pdb
